@@ -1,0 +1,184 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "nome": "Pizza Planet",
+      "descricao": "Molho especial, mussarela, pepperoni e orégano.",
+      "preco": 74.90,
+      "categoria": "Tradicional",
+      "destaque": false,
+      "imagem": "/img/Pizza1.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Calabresa Lunar",
+      "descricao": "Calabresa, cebola, mussarela e orégano.",
+      "preco": 71.90,
+      "categoria": "Tradicional",
+      "destaque": false,
+      "imagem": "/img/Pizza2.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Quatro Queijos",
+      "descricao": "Mussarela, provolone, parmesão e gorgonzola.",
+      "preco": 79.90,
+      "categoria": "Especial",
+      "destaque": false,
+      "imagem": "/img/Pizza3.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Frango Cósmico",
+      "descricao": "Frango desfiado, catupiry, mussarela e milho.",
+      "preco": 75.90,
+      "categoria": "Tradicional",
+      "destaque": false,
+      "imagem": "/img/Pizza4.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Margherita Estelar",
+      "descricao": "Molho de tomate, mussarela, tomate e manjericão.",
+      "preco": 72.90,
+      "categoria": "Tradicional",
+      "destaque": false,
+      "imagem": "/img/Pizza5.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Calabresa Dourada",
+      "descricao": "Calabresa, mussarela, bacon, cebola e orégano.",
+      "preco": 77.90,
+      "categoria": "Especial",
+      "destaque": false,
+      "imagem": "/img/Pizza6.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Portuguesa Galáctica",
+      "descricao": "Presunto, ovo, cebola, ervilha, mussarela e azeitona.",
+      "preco": 76.90,
+      "categoria": "Tradicional",
+      "destaque": false,
+      "imagem": "/img/Pizza7.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Chocolate Cósmico",
+      "descricao": "Chocolate ao leite, chocolate branco e morangos.",
+      "preco": 82.90,
+      "categoria": "Doce",
+      "destaque": false,
+      "imagem": "/img/Pizza8.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "Pepperoni Eclipse",
+      "descricao": "Molho de tomate, mussarela, pepperoni e toque especial de orégano.",
+      "preco": 78.90,
+      "categoria": "Especial",
+      "destaque": false,
+      "imagem": "/img/Pizza9.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "Bacon Nebulosa",
+      "descricao": "Mussarela, bacon crocante, cebola caramelizada e catupiry.",
+      "preco": 84.90,
+      "categoria": "Especial",
+      "destaque": false,
+      "imagem": "/img/Pizza10.jpg"
+    },
+    {
+      "id": 11,
+      "nome": "Carne Marciana",
+      "descricao": "Carne desfiada, mussarela, cebola, tomate e molho especial.",
+      "preco": 86.90,
+      "categoria": "Especial",
+      "destaque": false,
+      "imagem": "/img/Pizza11.jpg"
+    },
+    {
+      "id": 12,
+      "nome": "Cinco Estrelas",
+      "descricao": "Mussarela, provolone, parmesão, gorgonzola e cheddar.",
+      "preco": 88.90,
+      "categoria": "Especial",
+      "destaque": true,
+      "imagem": "/img/Pizza12.jpg"
+    },
+    {
+      "id": 13,
+      "nome": "Frango Nebuloso",
+      "descricao": "Frango desfiado, catupiry, bacon, milho e mussarela.",
+      "preco": 79.90,
+      "categoria": "Especial",
+      "destaque": false,
+      "imagem": "/img/Pizza13.jpg"
+    },
+    {
+      "id": 14,
+      "nome": "Napolitana Solar",
+      "descricao": "Molho de tomate, mussarela, tomate, parmesão e manjericão.",
+      "preco": 73.90,
+      "categoria": "Tradicional",
+      "destaque": false,
+      "imagem": "/img/Pizza14.jpg"
+    },
+    {
+      "id": 15,
+      "nome": "Suprema Galáctica",
+      "descricao": "Pepperoni, presunto, bacon, cebola, pimentão, milho e mussarela.",
+      "preco": 89.90,
+      "categoria": "Especial",
+      "destaque": true,
+      "imagem": "/img/Pizza15.jpg"
+    },
+    {
+      "id": 16,
+      "nome": "Toscana Lunar",
+      "descricao": "Linguiça toscana, cebola roxa, mussarela, tomate e orégano.",
+      "preco": 77.90,
+      "categoria": "Tradicional",
+      "destaque": false,
+      "imagem": "/img/Pizza16.jpg"
+    },
+    {
+      "id": 17,
+      "nome": "Brigadeiro Cósmico",
+      "descricao": "Chocolate ao leite, brigadeiro cremoso e granulado de chocolate.",
+      "preco": 84.90,
+      "categoria": "Doce",
+      "destaque": false,
+      "imagem": "/img/Pizza17.jpg"
+    },
+    {
+      "id": 18,
+      "nome": "Morango Lunar",
+      "descricao": "Chocolate branco, morangos frescos e leite condensado.",
+      "preco": 86.90,
+      "categoria": "Doce",
+      "destaque": false,
+      "imagem": "/img/Pizza18.jpg"
+    },
+    {
+      "id": 19,
+      "nome": "Nutella Nebulosa",
+      "descricao": "Creme de avelã, chocolate branco e morangos.",
+      "preco": 89.90,
+      "categoria": "Doce",
+      "destaque": true,
+      "imagem": "/img/Pizza19.jpg"
+    },
+    {
+      "id": 20,
+      "nome": "Banana Saturno",
+      "descricao": "Banana caramelizada, chocolate, canela e leite condensado.",
+      "preco": 81.90,
+      "categoria": "Doce",
+      "destaque": false,
+      "imagem": "/img/Pizza20.jpg"
+    }
+  ]
+}
